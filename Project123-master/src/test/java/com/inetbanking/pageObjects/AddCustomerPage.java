@@ -10,6 +10,7 @@ import org.openqa.selenium.support.PageFactory;
 public class AddCustomerPage {
 
 	WebDriver ldriver;
+	//test
 	
 	public AddCustomerPage(WebDriver rdriver) {
 		ldriver=rdriver;
